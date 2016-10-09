@@ -1,0 +1,5 @@
+#! /bin/bash
+Rscript tree_model_generator_dsabril_cbin2.r
+Rscript tree_model_generator_dsabril_valdepth_cbin2.R
+Rscript tree_model_generator_dsabril_valsplit_cbin2.R
+Rscript tree_model_generator_dsabril_valbucket_cbin2.R 
